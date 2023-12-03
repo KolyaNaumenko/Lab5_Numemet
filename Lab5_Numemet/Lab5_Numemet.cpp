@@ -7,7 +7,7 @@ const double PI = 3.14159265358979323846;
 
 // Функція
 double equation(double x) {
-    return x * x + 5 * sin(x) - 1;
+    return x * x - x + 1;
 }
 
 // Генерування вузлів Чебишова
